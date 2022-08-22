@@ -1,15 +1,13 @@
 fun main(){
-
-
-    val a: Int = 20
-    val b: Double =a.toDouble()
-    val c: String = "10"
-    val d: Int = c.toInt()
-    val e: String = "11.23"
-    val f: Double = e.toDouble()
-    println("Integer Value : $a")
-    println("Double Value (from Integer) : $b")
-    println("Integer value :$c")
-    println("Double value (from Integer) :$f")
-
+    var x:Int=10
+    var y:Double=x.toDouble()
+    var z: String=x.toString()
+    var a:Int=z.toInt()
+    var f:String="11.23"
+    var b:Double=f.toDouble()
+    println("Integer value: $x")
+    println("Double value (From Integer): $y")
+    println("String value: $z")
+    println("Integer value1 (From String): $a")
+    println("Double value (from String: $b")
 }
