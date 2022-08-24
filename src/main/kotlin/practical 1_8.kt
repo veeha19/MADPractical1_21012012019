@@ -1,5 +1,5 @@
 import java.util.Arrays
-import java.util.*
+
 fun main() {
     println("===Array-1===")
     val arr1 = arrayOf(1, 2, 3, 4)
