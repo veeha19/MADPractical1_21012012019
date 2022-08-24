@@ -9,6 +9,7 @@ fun main(args: Array<String>) {
 tailrec fun fact(n: Int, temp: Int = 1): Int
 {
     return if (n == 1)
+
     {
         temp
     } else {
