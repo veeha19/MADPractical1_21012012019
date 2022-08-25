@@ -1,5 +1,7 @@
 # MADPractical1_21012012019
 practical 1_1 Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String
+![Screenshot (677)](https://user-images.githubusercontent.com/108799765/186680326-a8a0c322-ea8d-409d-bcd9-8d019ca23f6b.png)
+
 practical 1_2 Type conversion:Integer to Double, String to Integer, String to Double.
 practical 1_3 Scan student’s information and display all the data
 practical 1_4 Find the number is odd or even by using Control Flow inside println() method.
@@ -10,4 +12,4 @@ practical 1_8 Create different types of Array as shown in image. Explore Arrays.
 practical 1_9 Find the max number from ArrayList
 practical 1_10 Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 practical 1_11 Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
-![Screenshot (676)])
+
